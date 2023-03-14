@@ -9,3 +9,6 @@ A description to the dataset and how it was obtained can be found under this lin
 Some of the reasons as to why I chose this dataset to analyze include having a deeper understanding of algorithms that are racially biased, and determining if this algorithm in specific is racially biased. As a first generation student and person of color, taking a closer look at the data and how this algorithm works will help me understand how algorithms can be not only racially biased, but could lead inaccurate decisions and outcomes that may lead to people of color have inmense disavantages in several aspects of life, not only the health care system.
 
 Therefore, with this data set, I will take a high level overview of analysis to explore how risk scores are being assigned to patients. Specifically, I will try to answer the question what factors could make this algorithm racially bias? How is it affecting patients of color?
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brunoromani16/DH-140-Final-Project/HEAD)
