@@ -3,3 +3,6 @@ seaborn
 pandas
 numpy
 sklearn
+sklearn.linear_model
+sklearn.model_selection
+sklearn.model_selection
